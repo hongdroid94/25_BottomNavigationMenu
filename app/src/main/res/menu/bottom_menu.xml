@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_airplane"
+        android:enabled="true"
+        android:icon="@drawable/ic_airplanemode_active_black_24dp"
+        android:title="비행기"/>
+
+    <item
+        android:id="@+id/action_airport"
+        android:enabled="true"
+        android:icon="@drawable/ic_airport_shuttle_black_24dp"
+        android:title="버스"/>
+
+    <item
+        android:id="@+id/action_bt"
+        android:enabled="true"
+        android:icon="@drawable/ic_bluetooth_black_24dp"
+        android:title="블루투스"/>
+
+    <item
+        android:id="@+id/action_call"
+        android:enabled="true"
+        android:icon="@drawable/ic_call_black_24dp"
+        android:title="전화"/>
+
+    <item
+        android:id="@+id/action_run"
+        android:enabled="true"
+        android:icon="@drawable/ic_directions_run_black_24dp"
+        android:title="사람"/>
+</menu>
